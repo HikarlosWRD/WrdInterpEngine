@@ -1,0 +1,5 @@
+{
+  "original": {"parts": 5, "compressedBytes": 2434350038, "uncompressedBytes": 6729209714, "files": 35133},
+  "removed": [".venv", "logs", "BAT files", "__pycache__", "*.pyc", "repair scripts"],
+  "releaseAsset": {"name": "WrdInterpEngine-runtime-win-amd-v1.0.0.zip", "sizeBytes": 50193900, "sha256": "a3ff62010ac8c78da771c2163b63621e5446699b263009c9ef1d85f4c6e6134c"}
+}
